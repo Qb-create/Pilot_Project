@@ -1,0 +1,140 @@
+.container {
+    max-width: 850px;   
+    margin: 0 auto;       
+    padding: 0 20px;      
+}
+.flexbox-container {
+  display: flex;
+  align-items: center;
+  gap: 20px; 
+  padding: 20px;
+  margin-top:30px;
+}
+
+
+.left-div img {
+    width: 450px; 
+    height: auto;
+}
+
+.right-div {
+    max-width: 600px;
+}
+
+.inner-div {
+    padding-bottom: 10px;
+    padding-top:10px;
+    margin-bottom: 10px;
+}
+
+.logo{
+    width: 50px;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.first title{
+    font-weight: 800;
+}
+.order_button{
+    letter-spacing: 2px;
+    border-radius: 5px;
+    padding-right: 18px;
+    padding-left: 18px;
+    border: 1px solid rgb(179, 84, 0);
+    background-image: linear-gradient(rgb(255, 120, 0), rgb(255, 120, 0)) !important;
+    padding-top: 23px !important;
+    padding-bottom: 23px !important;
+    width: 100%;
+    max-width: 350px;
+    max-height: 70px;
+    color: white;
+    font-size: 25px;
+}
+
+.your-ment{
+    background-color: rgb(231, 231, 230);
+    max-width: 600px;
+    padding: 40px;
+    margin:20px;
+    border-color: rgb(207, 207, 207);
+    border:1px;
+    
+}
+.Bible{
+    background-color: rgb(154, 20, 19);
+}
+.Titans-logo{
+    height: 40px;
+    margin-left: 10px;
+}
+.line{
+    background-color: rgb(254, 198, 79);
+    height:5px;
+    margin-top: 0;
+    padding-top: 0;
+}
+.your-ment-container{
+    display: flex;
+  flex-direction: column;      
+  justify-content: center;     
+  align-items: center; 
+}
+
+.flexbox-container{
+  display: flex;                
+  justify-content: center;     
+  align-items: center; 
+}
+
+.mentors-title{
+  display: flex;                
+  justify-content: center;     
+  align-items: center; 
+}
+.articles-container{
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+}
+.articles-first-row{
+  display: flex;                
+  justify-content: center;     
+  align-items: center; 
+}
+.articles-second-row{
+  display: flex;                
+  justify-content: center;     
+  align-items: center; 
+}
+.articles-third-row{
+  display: flex;                
+  justify-content: center;     
+  align-items: center; 
+}
+.articles-fourth-row{
+  display: flex;                
+  justify-content: center;     
+  align-items: center; 
+}
+.article{
+    padding: 10px;
+    border: 2px;
+    border-color:black;
+}
+.adds{
+  display: flex;                
+  justify-content: center;     
+  align-items: center;
+  width: 600px;
+}
+
+.or-button{
+  display: flex;                
+  justify-content: center;     
+  align-items: center; 
+}
+
+.add-img{
+    width:600px;
+}
